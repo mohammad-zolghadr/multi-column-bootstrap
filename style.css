@@ -1,17 +1,11 @@
-  /*@font-face {
-    font-family: "bf";
-    font-weight: bold;
-    font-style: bold;
-    src: url("fonts/IRANSansMobile_Bold.ttf") format("truetype"); /* ----All Font Types Added Hear---- */
-  }
-  */
+
 
   html{
     font-size: 14px;
   }
 
 *{
-    font-family: tahoma;
+    font-family: vazir;
     margin: 0 ;
     padding: 0 ;
     direction: rtl;
@@ -35,10 +29,7 @@ body{
 
 header{
     height : 50px;
-    background: linear-gradient( to Right , var(--col-primary) , var(--col-secondary)); /* ----Check This Out---- */
-
-    /* display: flex; */
-    /* align-items: center; */
+    background: linear-gradient( to Right , var(--col-primary) , var(--col-secondary));
 }
 
 header > img {
@@ -137,7 +128,7 @@ header > h1 {
 .see-more{
     border:none;
     background-color: var(--col-highlight);
-    font-family: tahoma;
+    font-family: vazir;
     border-radius: 25px;
     color: #ffffff;
     display: block;
