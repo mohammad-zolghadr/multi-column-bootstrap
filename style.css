@@ -71,8 +71,6 @@ header > h1 {
     background-color: var(--col-secondary);
     border-radius: 15px;
     padding: 4px 15px;
-    /* display: flex;
-    align-items: center; */
 }
 
 .main-nav  img{
